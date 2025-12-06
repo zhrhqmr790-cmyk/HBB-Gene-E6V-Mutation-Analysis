@@ -58,3 +58,14 @@ This project demonstrates how a single nucleotide mutation can lead to a severe 
 ---
 
 ✅ This repository represents my first applied bioinformatics research project.
+---
+
+## 🖼️ BLAST Result
+
+![BLAST Result](blast_result.png)
+
+---
+
+## 🧬 Clustal Omega Alignment
+
+![Clustal Alignment](clustal_alignment.png)
